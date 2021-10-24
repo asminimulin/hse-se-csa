@@ -1,0 +1,38 @@
+{
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 20,
+        "patch": 0
+    },
+    "configurePresets": [
+        {
+            "name": "clang-debug-default",
+            "displayName": "Ubuntu 20.04 Debug Clang",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_CXX_COMPILER": "clang++",
+                "CMAKE_C_COMPILER": "clang"
+            },
+            "binaryDir": "${sourceDir}/${presetName}"
+        },
+        {
+            "name": "gcc-debug-default",
+            "displayName": "Ubuntu 20.04 Debug GCC",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_CXX_COMPILER": "g++",
+                "CMAKE_C_COMPILER": "gcc"
+            },
+            "binaryDir": "${sourceDir}/${presetName}"
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "WSL: Debug",
+            "configurePreset": "gcc-debug-default"
+        }
+    ]
+}

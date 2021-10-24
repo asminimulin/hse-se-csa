@@ -1,0 +1,72 @@
+Running test 1...
+Memory: 3604 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 1 done
+
+Running test 2...
+Memory: 3464 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 2 done
+
+Running test 3...
+Memory: 3552 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 3 done
+
+Running test 4...
+Memory: 3556 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 4 done
+
+Running test 5...
+Memory: 3728 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 5 done
+
+Running test 6...
+Memory: 4068 KB
+User time: 0.11 s
+Kernel time: 0.00 s
+Test 6 done
+
+Running test 7...
+Memory: 4016 KB
+User time: 0.11 s
+Kernel time: 0.00 s
+Test 7 done
+
+Running test 8...
+Memory: 4392 KB
+User time: 0.44 s
+Kernel time: 0.00 s
+Test 8 done
+
+Running test 9...
+Memory: 4364 KB
+User time: 0.43 s
+Kernel time: 0.00 s
+Test 9 done
+
+Running test 10...
+Memory: 4356 KB
+User time: 0.44 s
+Kernel time: 0.00 s
+Test 10 done
+
+Running test 11...
+Memory: 3576 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+Test 11 done
+
+Running test 12...
+Memory: 4392 KB
+User time: 0.43 s
+Kernel time: 0.00 s
+Test 12 done
+
