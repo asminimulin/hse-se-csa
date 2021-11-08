@@ -1,0 +1,98 @@
+Running test 1...
+read film: name=Film #1 year=2001
+read film: name=Film #2 year=2002
+read film: name=Film #3 year=2003
+read film: name=Film #4 year=2004
+read film: name=Film #5 year=2005
+read film: name=Film #6 year=2006
+read film: name=Film #7 year=2007
+Memory: 10300 KB
+User time: 0.01 s
+Kernel time: 0.01 s
+Test 1 done
+
+Running test 2...
+read film: name=Film #2 year=2002
+read film: name=Film #4 year=2004
+read film: name=Film #3 year=2003
+read film: name=Film #6 year=2006
+read film: name=Film #5 year=2005
+read film: name=Film #7 year=2007
+read film: name=Film #1 year=2001
+Memory: 10440 KB
+User time: 0.02 s
+Kernel time: 0.01 s
+Test 2 done
+
+Running test 3...
+read film: name=Fiction film year=123
+read film: name=Documentary film year=123
+Memory: 10452 KB
+User time: 0.01 s
+Kernel time: 0.01 s
+Test 3 done
+
+Running test 4...
+Memory: 10504 KB
+User time: 0.03 s
+Kernel time: 0.00 s
+Test 4 done
+
+Running test 5...
+Memory: 10760 KB
+User time: 0.23 s
+Kernel time: 0.01 s
+Test 5 done
+
+Running test 6...
+Memory: 11892 KB
+User time: 5.52 s
+Kernel time: 0.01 s
+Test 6 done
+
+Running test 7...
+Memory: 11804 KB
+User time: 5.92 s
+Kernel time: 0.00 s
+Test 7 done
+
+Running test 8...
+Memory: 13240 KB
+User time: 23.07 s
+Kernel time: 0.00 s
+Test 8 done
+
+Running test 9...
+Memory: 13272 KB
+User time: 23.36 s
+Kernel time: 0.01 s
+Test 9 done
+
+Running test 10...
+Memory: 13212 KB
+User time: 24.00 s
+Kernel time: 0.01 s
+Test 10 done
+
+Running test 11...
+read film: name=Film #1 year=2001
+read film: name=Film #6 year=2006
+read film: name=Film #3 year=2003
+read film: name=Film #8 year=203948
+read film: name=Film #4 year=2004
+read film: name=Film 10 year=9999999
+read film: name=Film #5 year=2005
+read film: name=Film #7 year=2007
+read film: name=Film #9 year=999999
+read film: name=Film #2 year=2002
+Memory: 10384 KB
+User time: 0.04 s
+Kernel time: 0.00 s
+Test 11 done
+
+Running test 12...
+Memory: 13184 KB
+User time: 24.96 s
+Kernel time: 0.00 s
+Test 12 done
+
